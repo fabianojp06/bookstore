@@ -1,0 +1,22 @@
+img {
+    height: 3rem;
+}
+
+.header {
+    justify-content: center;
+    height: 10%;
+    background-color: rgb(29, 28, 28);
+    color: antiquewhite;
+}
+
+span {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    padding-left: 1.3rem;
+    font-size: 2rem;
+    color: white; text-shadow: rgb(211, 206, 206) 0.1em 0.1em 0.2em
+}
+

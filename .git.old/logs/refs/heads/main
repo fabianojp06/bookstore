@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 4dd480c9f72450e6be2e3413632c89242a11da91 Fabiano Garcia <fabianojp06@gmail.com> 1666789830 -0300	commit (initial): Initial commit
+4dd480c9f72450e6be2e3413632c89242a11da91 29b44fadbada909afa90a3235b1ee6d9956257b2 Fabiano Garcia <fabianojp06@gmail.com> 1666790656 -0300	commit: Angular material instalado no projeto
+29b44fadbada909afa90a3235b1ee6d9956257b2 a634e846864198cd91f48d959be86d851d7c45b0 Fabiano Garcia <fabianojp06@gmail.com> 1666805518 -0300	commit: Criação component HEADER
+a634e846864198cd91f48d959be86d851d7c45b0 16b87e054ce1f25b8ac41d68522664a3db43877c Fabiano Garcia <fabianojp06@gmail.com> 1666862028 -0300	pull: Fast-forward
+16b87e054ce1f25b8ac41d68522664a3db43877c a9f19f2553850acd1683b922e06d86197b33dd0f Fabiano Garcia <fabianojp06@gmail.com> 1666876535 -0300	commit: Criação NAVBAR
+a9f19f2553850acd1683b922e06d86197b33dd0f bc70a121f65b5254588af2b23b3b5c0822b2b5a6 Fabiano Garcia <fabianojp06@gmail.com> 1666879567 -0300	commit: HOME implementado com rota
+bc70a121f65b5254588af2b23b3b5c0822b2b5a6 a5b331c7c5c230186428ab5bb096a6280ff33cdc Fabiano Garcia <fabianojp06@gmail.com> 1666882110 -0300	commit: Componente CATEGIRA-READ part.1
+a5b331c7c5c230186428ab5bb096a6280ff33cdc 77473a40e077ada369f9fb460af7067c6773e5f8 Fabiano Garcia <fabianojp06@gmail.com> 1666891804 -0300	commit: CATEGORIA-READ foi implementado
+77473a40e077ada369f9fb460af7067c6773e5f8 3579300861f6c86ca0d430ce8ac477541e5dc9db Fabiano Garcia <fabianojp06@gmail.com> 1666893568 -0300	commit: CATEGORIA-READ continuação
+3579300861f6c86ca0d430ce8ac477541e5dc9db 25862283e1f57d268d17c67d1c1af26d733b4e52 Fabiano Garcia <fabianojp06@gmail.com> 1666901978 -0300	commit: Ajustes no frontend
+25862283e1f57d268d17c67d1c1af26d733b4e52 6897360997d68570ff7692514bef2fd549b54bf8 Fabiano Garcia <fabianojp06@gmail.com> 1666964418 -0300	commit: Método CREATE implementado
+6897360997d68570ff7692514bef2fd549b54bf8 6f7c711e42c37a716bc898bbb585b00e952b87c4 Fabiano Garcia <fabianojp06@gmail.com> 1666964653 -0300	commit: Finalização do método CREATE - btn cancelar
+6f7c711e42c37a716bc898bbb585b00e952b87c4 336c3001331949555763900645febb25141ee7aa Fabiano Garcia <fabianojp06@gmail.com> 1666969851 -0300	commit: Início implementação CATEGORIA-DELETE
+336c3001331949555763900645febb25141ee7aa 234ee4cf35d4af2db75a6debeb70368f06877a6d Fabiano Garcia <fabianojp06@gmail.com> 1667478446 -0300	commit: Implementação UPDATE_CATEGORIA
+234ee4cf35d4af2db75a6debeb70368f06877a6d 5e47b56729ec30d59fb1ab1d33ee2914a0256f4c Fabiano Garcia <fabianojp06@gmail.com> 1667484617 -0300	commit: Método UPDATE-CATEGORIA criado
+5e47b56729ec30d59fb1ab1d33ee2914a0256f4c fd07a329290e58b71615e9e75efbf606ccaf7b11 Fabiano Garcia <fabianojp06@gmail.com> 1667484812 -0300	commit (merge): Merge branch 'main' of https://github.com/fabianojp06/bookstore-front
+fd07a329290e58b71615e9e75efbf606ccaf7b11 7864daee2d56cbf1c1f5c5d1fa2180083c8e0851 Fabiano Garcia <fabianojp06@gmail.com> 1667485852 -0300	commit: UPDATE-CATEGORIA concluído
+7864daee2d56cbf1c1f5c5d1fa2180083c8e0851 f910d030e4c401a0ad2426202128e16a1b69a42d Fabiano Garcia <fabianojp06@gmail.com> 1667587658 -0300	commit: atualizaçaõ
+f910d030e4c401a0ad2426202128e16a1b69a42d 9b923c1cc58f7a765a96de3e1f98b3377dc4dd88 Fabiano Garcia <fabianojp06@gmail.com> 1667591603 -0300	commit: Leitura de todos os livros por categoria implementado
+9b923c1cc58f7a765a96de3e1f98b3377dc4dd88 08aaf91879857d38263e40dbc74b7fe2ce231b43 Fabiano Garcia <fabianojp06@gmail.com> 1667829800 -0300	commit: Implementado método LIVRO-CREATE
+08aaf91879857d38263e40dbc74b7fe2ce231b43 0c9f8b3b75d5cfebc8f04a38184211d79cd77041 Fabiano Garcia <fabianojp06@gmail.com> 1667845250 -0300	commit: UPDATE para livro implementado
+0c9f8b3b75d5cfebc8f04a38184211d79cd77041 2c967e77f79cd42486eeb0859aca5ad1ee43f38b Fabiano Garcia <fabianojp06@gmail.com> 1667845704 -0300	commit: DELETE para livro implementado
+2c967e77f79cd42486eeb0859aca5ad1ee43f38b d4f7101232eb3a4954799b9d2d16b08a25a1a068 Fabiano Garcia <fabianojp06@gmail.com> 1667846364 -0300	commit: READ livro implementado
